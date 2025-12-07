@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite this work if you use Dephaze NORTH for research or academic reference."
+title: "Dephaze NORTH: Generative Topological Data Reconstruction"
+version: "1.0"
+date-released: "2025-12-06"
+doi: "10.5281/zenodo.17844047"
+authors:
+  - family-names: "Dewer"
+    given-names: "Angus"
+    affiliation: "Dephaze Manufacture, Budapest, Hungary"
+    orcid: "https://orcid.org/0009-0008-8238-1770"
+keywords:
+  - Dephaze
+  - NORTH
+  - Generative Reconstruction
+  - Topological Eigenvectors
+  - Structural Storage
+  - Phase-Field Theory
+  - Prior Art
+  - Defensive Publication
+license: "CC-BY-NC-SA-4.0"
+publisher: "Zenodo"
+repository-code: "https://github.com/angusdewer/Dephaze-North"
+abstract: >
+  Dephaze NORTH introduces a novel information architecture where digital data is
+  not preserved as compressed artifacts but regenerated from its minimal
+  topological eigenvector, the Northpole. Given a deterministic substrate field
+  (Ω₀) and a generative operator (Ψ), any data object D can be perfectly
+  reconstructed using the relation D = Ψ(Ω₀, N(D)). This work demonstrates the
+  mathematical framework and establishes global prior art under 35 U.S.C. §102(a)(1)
+  and equivalent international patent doctrines.
