@@ -38,7 +38,9 @@ Provides Prior Art protection under:
 - WIPO / PCT Article 15(2)
 
 ---
-
+CC BY-NC-SA 4.0 with Patent Defensive Provisions
+© 1992–2025 Angus Dewer / Dephaze Manufacture
+All Rights Reserved WHERE COMMERCE IS INVOLVED.
 ### For Licensing Inquiries:
 📧 angus@dephaze.eu  
 🌐 https://dephaze.eu
